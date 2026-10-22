@@ -1,0 +1,12 @@
+net\vionta\xml\xesta\test\cases\http\dbpedia\AirportQuery.class
+net\vionta\xml\xesta\test\beansamples\sheet\contents\Cell.class
+net\vionta\xml\xesta\test\beansamples\sheet\contents\Table.class
+net\vionta\xml\xesta\test\beansamples\sheet\contents\Sheet.class
+net\vionta\xml\xesta\test\beansamples\log\LogLevel.class
+net\vionta\xml\xesta\test\beansamples\logsimple\LogLevelSimple.class
+net\vionta\xml\xesta\test\cases\http\weather\beans\DayPrediction.class
+net\vionta\xml\xesta\test\beansamples\sheet\contents\Row.class
+net\vionta\xml\xesta\test\cases\http\weather\beans\WeatherLocation.class
+net\vionta\xml\xesta\test\beansamples\log\Appender.class
+net\vionta\xml\xesta\test\cases\http\weather\WeatherServiceTest.class
+net\vionta\xml\xesta\test\cases\http\dbpedia\beans\Airport.class
