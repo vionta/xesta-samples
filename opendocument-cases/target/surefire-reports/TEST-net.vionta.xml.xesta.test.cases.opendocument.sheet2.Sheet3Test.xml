@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="net.vionta.xml.xesta.test.cases.opendocument.sheet2.Sheet3Test" time="0.045" tests="1" errors="1" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="19"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\jorge\dev\ws\xml-binding\xesta-samples\fento-opendocument-cases\target\test-classes;C:\Users\jorge\dev\ws\xml-binding\xesta-samples\fento-opendocument-cases\target\classes;C:\Users\jorge\.m2\repository\net\vionta\xml\xesta\1.0.1\xesta-1.0.1.jar;C:\Users\jorge\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\jorge\.m2\repository\commons-beanutils\commons-beanutils\1.11.0\commons-beanutils-1.11.0.jar;C:\Users\jorge\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\jorge\.m2\repository\net\sf\saxon\Saxon-HE\12.9\Saxon-HE-12.9.jar;C:\Users\jorge\.m2\repository\org\xmlresolver\xmlresolver\5.3.3\xmlresolver-5.3.3.jar;C:\Users\jorge\.m2\repository\org\xmlresolver\xmlresolver\5.3.3\xmlresolver-5.3.3-data.jar;C:\Users\jorge\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\jorge\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\jorge\.m2\repository\org\slf4j\slf4j-reload4j\1.7.36\slf4j-reload4j-1.7.36.jar;C:\Users\jorge\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\jorge\.m2\repository\ch\qos\reload4j\reload4j\1.2.19\reload4j-1.2.19.jar;"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://www.azul.com/"/>
+    <property name="user.timezone" value="Europe/Madrid"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="19"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Users\jorge\dev\jdk\zulu19.32.13-ca-jdk19.0.2-win_x64\bin"/>
+    <property name="sun.java.command" value="C:\Users\jorge\AppData\Local\Temp\surefire12981190471754952387\surefirebooter-20261022150330216_3.jar C:\Users\jorge\AppData\Local\Temp\surefire12981190471754952387 2026-10-22T15-03-29_853-jvmRun1 surefire-20261022150330216_1tmp surefire_0-20261022150330216_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\jorge\dev\ws\xml-binding\xesta-samples\fento-opendocument-cases\target\test-classes;C:\Users\jorge\dev\ws\xml-binding\xesta-samples\fento-opendocument-cases\target\classes;C:\Users\jorge\.m2\repository\net\vionta\xml\xesta\1.0.1\xesta-1.0.1.jar;C:\Users\jorge\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\jorge\.m2\repository\commons-beanutils\commons-beanutils\1.11.0\commons-beanutils-1.11.0.jar;C:\Users\jorge\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\jorge\.m2\repository\net\sf\saxon\Saxon-HE\12.9\Saxon-HE-12.9.jar;C:\Users\jorge\.m2\repository\org\xmlresolver\xmlresolver\5.3.3\xmlresolver-5.3.3.jar;C:\Users\jorge\.m2\repository\org\xmlresolver\xmlresolver\5.3.3\xmlresolver-5.3.3-data.jar;C:\Users\jorge\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\jorge\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\jorge\.m2\repository\org\slf4j\slf4j-reload4j\1.7.36\slf4j-reload4j-1.7.36.jar;C:\Users\jorge\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\jorge\.m2\repository\ch\qos\reload4j\reload4j\1.2.19\reload4j-1.2.19.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\jorge"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-01-17"/>
+    <property name="java.home" value="C:\Users\jorge\dev\jdk\zulu19.32.13-ca-jdk19.0.2-win_x64"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\jorge\dev\ws\xml-binding\xesta-samples\fento-opendocument-cases"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\jorge\AppData\Local\Temp\surefire12981190471754952387\surefirebooter-20261022150330216_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="19.0.2+7"/>
+    <property name="user.name" value="jorge"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Zulu19.32+13-CA"/>
+    <property name="localRepository" value="C:\Users\jorge\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://www.azul.com/support/"/>
+    <property name="java.io.tmpdir" value="C:\Users\jorge\AppData\Local\Temp\"/>
+    <property name="java.version" value="19.0.2"/>
+    <property name="user.dir" value="C:\Users\jorge\dev\ws\xml-binding\xesta-samples\fento-opendocument-cases"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\jorge\dev\jdk\zulu19.32.13-ca-jdk19.0.2-win_x64\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C;C:\Users\jorge\dev\jdk\zulu19.32.13-ca-jdk19.0.2-win_x64\bin;C;C:\Program Files\Zulu\zulu-17\bin;C:\Program Files\Zulu\zulu-17\bin;C:\Program Files\Zulu\zulu-17\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\SlikSvn\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit;C:\Program Files\GnuPG\bin;C:\Users\jorge\dev\tools\Ruby34-x64\bin;C:\Users\jorge\AppData\Local\Microsoft\WindowsApps;C:\Users\jorge\dev\bin;C:\Users\jorge\dev\tools\arousa;C:\Users\jorge\dev\bin;C:\Users\jorge\dev\tools\apache-ant-1.10.13\bin;C:\Users\jorge\dev\tools\arousa;C:\Users\jorge\dev\tools\cygwin\cygwin64\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="java.vm.version" value="19.0.2+7"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="63.0"/>
+  </properties>
+  <testcase name="testGetSpreadSheetContent" classname="net.vionta.xml.xesta.test.cases.opendocument.sheet2.Sheet3Test" time="0.045">
+    <error message="Index 0 out of bounds for length 0" type="java.lang.IndexOutOfBoundsException"><![CDATA[java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.util.Objects.checkIndex(Objects.java:385)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at net.vionta.xml.xesta.test.cases.opendocument.sheet2.Sheet3Test.testGetSpreadSheetContent(Sheet3Test.java:45)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:316)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:240)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:214)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]></error>
+  </testcase>
+</testsuite>

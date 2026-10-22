@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: net.vionta.xml.xesta.test.cases.opendocument.doc1.DocumentTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.557 s -- in net.vionta.xml.xesta.test.cases.opendocument.doc1.DocumentTest
