@@ -1,0 +1,4 @@
+net\vionta\xml\xesta\test\cases\iso2022\CheckNamespaceContext.class
+net\vionta\xml\xesta\test\cases\iso2022\CheckNamespaceTest.class
+net\vionta\xml\xesta\test\cases\iso2022\CheckNoNSTest.class
+net\vionta\xml\xesta\test\cases\iso2022\GlobalPaymentTest.class

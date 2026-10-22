@@ -1,0 +1,5 @@
+net\vionta\xml\xesta\test\beansamples\iso2022\CheckNS.class
+net\vionta\xml\xesta\test\beansamples\iso2022\CheckNoNS.class
+net\vionta\xml\xesta\test\beansamples\iso2022\Sepa.class
+net\vionta\xml\xesta\test\beansamples\iso2022\GlobalPayment.class
+net\vionta\xml\xesta\test\beansamples\iso2022\Check.class

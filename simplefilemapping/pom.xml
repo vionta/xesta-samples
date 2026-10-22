@@ -1,0 +1,39 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.vionta.xml.xesta.cases</groupId>
+  <artifactId>simplefilemapping</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>simplefilemapping</name>
+  <description>A simple example of a Xesta mapping</description>
+
+  <dependencies>
+    <dependency>
+      <groupId>net.vionta.xml</groupId>
+      <artifactId>xesta</artifactId>
+      <version>1.0.1</version>
+    </dependency>
+
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.13.2</version>
+      <scope>test</scope>
+    </dependency>
+
+  </dependencies>
+  
+  <build>
+    <plugins>  
+      <plugin>
+    	<groupId>org.apache.maven.plugins</groupId>
+    	<artifactId>maven-compiler-plugin</artifactId>
+    	<version>3.12.1</version>
+    	<configuration>
+          <release>17</release> <!-- the final compiled version -->
+    	</configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>
